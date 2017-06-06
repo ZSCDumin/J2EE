@@ -1,0 +1,7 @@
+﻿1.包说明
+  (1)com.pro.biz:定义相关的接口及其实现
+  (2)com.pro.dao:数据访问层
+  (3)com.pro.entity:实体类
+  (4)com.pro.filter:过滤器
+  (5)com.pro.servlet:servlet跳转
+  (6)com.pro.utils:连接数据库配置及连接类的实现

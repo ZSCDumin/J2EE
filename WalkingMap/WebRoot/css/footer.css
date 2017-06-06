@@ -1,0 +1,85 @@
+@charset "utf-8";
+/* CSS Document */
+/*顶部导航开始*/
+
+/*下部图片*/
+#pct_buttom{
+	padding:0px;
+	margin:0px;
+
+}
+#pct_buttom ul{
+	margin:0px;
+	width:100%;
+	padding:0px;
+}
+#pct_buttom li{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+	width:336px;
+	height:200px;
+	background-repeat:no-repeat;
+	float:left;
+	background-position:-150px;
+}
+/*底部*/
+#buttom{
+	width:100%;
+	background-color:#F2F2F2;
+	position:absolute;
+
+}
+#bdd{
+	margin-top: 20px;
+	margin-left: 100px;
+}
+.dl1{
+	margin-left:120px;
+	float:left;
+}
+#buttom dt{
+	color: #383844;
+	font-size:14px;
+	font-weight:bold;
+}
+#buttom dd{
+	font-size:14px;
+	color:#969696;
+	margin:0px;
+	margin-top: 6px;
+}
+#bbd{
+	font-size:14px;
+	color: #A19B99;
+	margin-left: 220px;
+	margin-top: 300px;
+}
+#bbd a{
+	text-decoration: none;
+	color: #8090D7;
+}
+#bbd .p1{
+	border-bottom:#E3E3E3 solid 1px;
+}
+#bbd p{
+	width: 900px;
+	height: 25px;
+}
+#bbd ul{
+	margin: 0px;
+	padding: 0px;
+}
+#bbd li{
+	list-style: none;
+	float: left;
+	border-right: 20px;
+}
+#bbd .li{
+	text-align: center;
+	width: 80px;
+	color: #776677;
+}
+#bbd .lli{
+	border-left: #E3E3E3 solid 1px;
+}
