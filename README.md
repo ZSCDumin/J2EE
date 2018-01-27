@@ -4,4 +4,4 @@
 >+ 购物
 
 # 项目说明文档
-J2EE/WalkingMap/网站使用说明.pdf
+https://github.com/ZSCDumin/J2EE/blob/master/WalkingMap/%E7%BD%91%E7%AB%99%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.pdf
